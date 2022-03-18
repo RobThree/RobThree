@@ -16,4 +16,4 @@ jobs:
         with:
           feed_list: "https://blog.robiii.nl/feeds/posts/default?alt=rss,https://robiii.tweakblogs.net/feed/"
           template: "<li><a href=\"$url\" target=\"_blank\">$title</li>"
-          max_post_count: 10
+          max_post_count: 50

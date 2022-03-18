@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.robiii.nl/feeds/posts/default?alt=rss,https://robiii.tweakblogs.net/feed/"
-          template: "<li><a href=\"$url\" target=\"_blank\" title=\"$date\">$title</li>"
+          template: "<li><a href=\"$url\" target=\"_blank\" title=\"UTC: $date\">$title</li>"
           max_post_count: 10

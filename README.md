@@ -6,6 +6,7 @@
   </a>
 </p>
 <h2>Latest posts</h2>
+<ul>
 <!-- BLOG-POST-LIST:START -->
 - [Hack your Segway E110S / E110SE / E125S](https://blog.robiii.nl/2022/01/hack-your-segway-e110s-e110se-125s.html)
 - [The DIYMore 18650 Battery Shield V3 su... isn&#39;t very good.](https://blog.robiii.nl/2021/12/the-diymore-18650-battery-shield-v3-su.html)
@@ -13,6 +14,7 @@
 - [Install Microsoft SQL Server on Debian](https://blog.robiii.nl/2021/09/install-microsoft-sql-server-on-debian.html)
 - [Toshiba Airconditioner WiFi troubles](https://blog.robiii.nl/2021/07/toshiba-airconditioner-wifi-troubles.html)
 <!-- BLOG-POST-LIST:END -->
+</ul>
 <h2>Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robthree&theme=radical&show_icons=true&include_all_commits=true&count_private=true&line_height=28" align="left">

@@ -14,6 +14,6 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://blog.robiii.nl/feeds/posts/default?alt=rss,https://robiii.tweakblogs.net/feed/"
+          feed_list: "https://blog.robiii.nl/feeds/posts/default?alt=rss"
           template: "<li><a href=\"$url\" target=\"_blank\" title=\"UTC: $date\">$title</li>"
           max_post_count: 10
